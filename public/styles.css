@@ -3,7 +3,7 @@ body {
   margin-left: auto;
   margin-right: auto;
   color: black;
-  background-image: url("./images/background.jpg");
+  background-image: url("https://chat.google.com/u/0/api/get_attachment_url?url_type=FIFE_URL&content_type=image%2Fpng&attachment_token=AOo0EEWwv8ee6IXXFQu0nOZHjebh7SpCzJHSJwFBF78Si1Qq7HywpzpqIQpfxgJeV2nd5VdxY%2B1htubflOzidgotiiTYpCp8ZUdPTEQTGH5BQ9nTmSeXPiCQ21eK7IzqqFwdi4g9Gwr00fntHOn4RKiDGrNuW2Y8fbfAfljw20ctYOhgg%2BuZlBXRTWCoytBaO625gttKZe4RgU7Jx%2FO38hN43hJcMSt3k61sqhvMqRiIEdW%2F55cTpEBc5Vnlsg2zM4b7kauVUkgDPrLRCGMNHNNuPl9NciXh05GoeB0aCPTwwpOzPYO3kOFs63k0Lmt9N7Tj%2Bzkz20fbpWsdMGTJKryjPJyEd%2Bzrd3ayxhoEC5NG7Gh9y30Id%2B3GzqD036rEavM9DKMVYE6XJUApIG9JNfG%2FhuHcKoMSXd%2FS9RW00%2FRvsp9sBXeKKcdG%2FDpxE9i1A0LeXv20T322hpY55%2BqsnLAgyJza3ZHLi8dTgo9Hb6XxEvExqifEZgH97AGqnkZOnPqOPLrvnjG%2B8G3liTobsSex3EbfP4Jjeb5TEk0PdczN2PeWHz9yq2xKekLfP35dXRZCv7li&sz=w1920-h868");
   padding: 1em;
 }
 p {
@@ -13,5 +13,5 @@ p {
 h1 {
   font-size: 48pt;
   font-weight: bold;
-  color: brown;
+  color: rgb(224, 8, 8);
 }
