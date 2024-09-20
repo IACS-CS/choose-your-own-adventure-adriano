@@ -1,7 +1,8 @@
 body {
   width: 550px;
-  margin-left: auto;
-  margin-right: auto;
+   text-align: center; 
+   margin-left: auto; 
+   margin-right: auto;
   color: black;
   background-image: url("./images/background.jpg");
   padding: 1em;
